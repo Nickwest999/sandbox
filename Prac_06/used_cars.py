@@ -4,7 +4,7 @@ Used Cars
 24/11/2020
 """
 
-from prac_06.car import Car
+from Prac_06.car import Car
 
 
 def main():
